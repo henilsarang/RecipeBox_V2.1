@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "130575478970",
+    "firebase_url": "https://fir-databseapp-bef73.firebaseio.com",
+    "project_id": "fir-databseapp-bef73",
+    "storage_bucket": "fir-databseapp-bef73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130575478970:android:e5b95b86d0eedc9b",
+        "android_client_info": {
+          "package_name": "com.viaviweb.recipebox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130575478970-5gafbbit0458sda83o6hg115qe0aphc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDacx1o-EHUqbH-OQC7Pd65-SgVooO7PPc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130575478970:android:54d347d8af553543",
+        "android_client_info": {
+          "package_name": "com.app.whatsappstickerpacks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130575478970-5gafbbit0458sda83o6hg115qe0aphc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDacx1o-EHUqbH-OQC7Pd65-SgVooO7PPc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
